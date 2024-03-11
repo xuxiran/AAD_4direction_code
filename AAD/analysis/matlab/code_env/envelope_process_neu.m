@@ -20,7 +20,7 @@ if 1
     nowdir = cd;
     cd ..
     projectdir =  cd;
-    DataDir = ['../../../preprocess_data\data_env/'];    
+    DataDir = ['../../../preprocess_data/data_env/'];    
 
     cd (nowdir)    
 
