@@ -12,6 +12,7 @@ cd analysis/
         cd ../
         cd code_env/
             envelope_process_neu
+            TRFs
             disp('-------------envelope----------------')
         cd ../
     cd ../
