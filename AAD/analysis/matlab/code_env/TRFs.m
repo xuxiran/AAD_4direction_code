@@ -181,10 +181,10 @@ c.FontName = 'Times New Roman';
 c.FontWeight = ['bold'];
 title(c,'amp(a.u.)','FontWeight', 'bold','Fontname','Times New Roman','Fontsize',14);
 
-% 上面一行的标签
+
 annotation('textbox', [0.02, 0.67, 0.1, 0.15], 'String', 'Attended', ...
     'EdgeColor', 'none', 'HorizontalAlignment', 'center', 'VerticalAlignment', 'middle','FontWeight', 'bold','FontName','Times New Roman','FontSize', 25);
 
-% 下面一行的标签
+
 annotation('textbox', [0.02, 0.18, 0.1, 0.15], 'String', 'Unattended', ...
     'EdgeColor', 'none', 'HorizontalAlignment', 'center', 'VerticalAlignment', 'middle','FontWeight', 'bold','FontName','Times New Roman', 'FontSize', 25);
