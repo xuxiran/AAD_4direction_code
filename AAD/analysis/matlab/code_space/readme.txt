@@ -1,1 +1,0 @@
-The codes in the "code" direction contains codes to decode auditory attention using DenseNet.
